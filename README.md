@@ -13,6 +13,7 @@ Indice
 - [Galletitas de chocolate](recetas/cookies.md)
 - [Budín de banana](recetas/banana-bread.md)
 - [Pollo tres aromas](recetas/sanbeiji.md)
+- [Thai curry (mae ploy)](recetas/thai-curry.md)
 
 Nomenclaturas
 -------------
